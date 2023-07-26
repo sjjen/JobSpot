@@ -12,7 +12,7 @@
     "test:watch": "jest --watchAll"
   },
   "dependencies": {
-    "@esbuild/darwin-x64": "^0.18.17",
+    "@esbuild/linux-x64": "^0.18.17",
     "bcrypt": "^5.1.0",
     "concurrently": "^8.0.1",
     "cors": "^2.8.5",
